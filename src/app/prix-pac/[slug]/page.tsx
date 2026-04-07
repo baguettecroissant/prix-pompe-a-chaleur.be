@@ -18,9 +18,11 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
-export const dynamic = 'force-dynamic';
-
 type Props = { params: Promise<{ slug: string }> };
+
+export async function generateStaticParams() {
+    return getAllCitySlugs().map(slug => ({ slug }));
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { slug } = await params;
