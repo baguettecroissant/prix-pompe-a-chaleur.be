@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { ViteUnDevisWidget } from "@/components/affiliation/ViteUnDevisWidget";
+import { BobexWidget } from "@/components/affiliation/BobexWidget";
 import {
     ArrowRight,
     Shield,
@@ -224,7 +224,7 @@ export default function HomePage() {
                             Renseignez votre projet ci-dessous et recevez jusqu&apos;à 3 propositions chiffrées d&apos;installateurs certifiés RESCert.
                         </p>
                     </div>
-                    <ViteUnDevisWidget />
+                    <BobexWidget />
                 </div>
             </section>
 

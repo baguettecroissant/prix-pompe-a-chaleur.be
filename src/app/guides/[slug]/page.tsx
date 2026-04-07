@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { guides } from "@/data/guides";
 import { GUIDE_CATEGORIES } from "@/types/guide";
 import { Breadcrumbs } from "@/components/seo/Breadcrumbs";
-import { ViteUnDevisWidget } from "@/components/affiliation/ViteUnDevisWidget";
+import { BobexWidget } from "@/components/affiliation/BobexWidget";
 import { Metadata } from "next";
 import Link from "next/link";
 import { Clock, Calendar, ArrowRight } from "lucide-react";
@@ -76,7 +76,7 @@ export default async function GuidePage({ params }: Props) {
                         <h2 className="text-2xl font-bold text-slate-900 mb-2">Prêt à lancer votre projet PAC ?</h2>
                         <p className="text-slate-600">Comparez gratuitement les devis d&apos;installateurs certifiés RESCert.</p>
                     </div>
-                    <ViteUnDevisWidget />
+                    <BobexWidget />
                 </div>
             </article>
             <aside className="bg-slate-50 py-12 border-t border-slate-200">
