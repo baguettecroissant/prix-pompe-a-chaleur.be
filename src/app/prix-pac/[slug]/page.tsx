@@ -12,7 +12,7 @@ import { StepsModule } from "@/components/psea/StepsModule";
 import { NearbyCitiesModule } from "@/components/psea/NearbyCitiesModule";
 import { SchemaOrg } from "@/components/psea/SchemaOrg";
 import { ProvinceBreadcrumb } from "@/components/psea/ProvinceBreadcrumb";
-import { BobexWidget } from "@/components/affiliation/BobexWidget";
+import { BobexNativeForm } from "@/components/affiliation/BobexNativeForm";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
@@ -82,7 +82,7 @@ export default async function CityPage({ params }: Props) {
                         <h2 className="text-3xl font-bold mb-3">Devis gratuit à {city.name}</h2>
                         <p className="text-teal-100">Recevez jusqu&apos;à 3 devis d&apos;installateurs certifiés en {city.province_name}.</p>
                     </div>
-                    <BobexWidget />
+                    <BobexNativeForm />
                 </div>
             </section>
 

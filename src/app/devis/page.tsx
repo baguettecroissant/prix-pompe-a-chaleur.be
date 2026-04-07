@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import { BobexWidget } from "@/components/affiliation/BobexWidget";
+import { BobexNativeForm } from "@/components/affiliation/BobexNativeForm";
 import { Breadcrumbs } from "@/components/seo/Breadcrumbs";
 import { Shield, CheckCircle, ArrowRight, Clock, Users, Award, Wrench, Zap, FileText, ThermometerSun } from "lucide-react";
 
@@ -63,7 +63,7 @@ export default function DevisPage() {
                 <div className="container mx-auto px-4">
                     <div className="grid lg:grid-cols-12 gap-8">
                         <div className="lg:col-span-8">
-                            <BobexWidget />
+                            <BobexNativeForm />
                         </div>
                         <div className="lg:col-span-4 space-y-6">
                             <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
