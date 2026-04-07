@@ -1,0 +1,37 @@
+# Prix-Pompe-a-Chaleur.be
+
+> Le guide indépendant n°1 pour choisir, installer et financer votre pompe à chaleur en Belgique.
+
+## À propos
+Prix-Pompe-a-Chaleur.be est un guide indépendant et gratuit destiné aux propriétaires belges francophones souhaitant installer une pompe à chaleur (PAC). Le site couvre la Wallonie et Bruxelles-Capitale avec des données locales pour 271 communes.
+
+## Services
+- Comparaison gratuite de devis d'installateurs certifiés RESCert
+- Guides techniques sur les types de PAC (air/eau, air/air, géothermique)
+- Informations sur les primes régionales (Wallonie et Bruxelles)
+- Annuaire d'installateurs par province
+- Prix et tarifs par ville
+
+## Pages principales
+- [Accueil](https://www.prix-pompe-a-chaleur.be/)
+- [Devis Gratuit](https://www.prix-pompe-a-chaleur.be/devis)
+- [Guides](https://www.prix-pompe-a-chaleur.be/guides)
+- [Marques PAC](https://www.prix-pompe-a-chaleur.be/marques)
+- [Annuaire Installateurs](https://www.prix-pompe-a-chaleur.be/annuaire)
+- [FAQ](https://www.prix-pompe-a-chaleur.be/faq)
+
+## Guides disponibles
+- [Prix PAC Belgique 2026](https://www.prix-pompe-a-chaleur.be/guides/prix-pompe-a-chaleur-belgique)
+- [Primes Wallonie](https://www.prix-pompe-a-chaleur.be/guides/primes-pompe-a-chaleur-wallonie)
+- [Primes Bruxelles](https://www.prix-pompe-a-chaleur.be/guides/primes-pompe-a-chaleur-bruxelles)
+- [Air/Eau vs Air/Air vs Géothermique](https://www.prix-pompe-a-chaleur.be/guides/air-eau-vs-air-air-vs-geothermique)
+- [Remplacement chaudière mazout](https://www.prix-pompe-a-chaleur.be/guides/remplacement-chaudiere-mazout)
+- [Certificat PEB Belgique](https://www.prix-pompe-a-chaleur.be/guides/certificat-peb-belgique)
+- [Entretien PAC Belgique](https://www.prix-pompe-a-chaleur.be/guides/entretien-pompe-a-chaleur-belgique)
+- [Daikin vs Vaillant vs Mitsubishi](https://www.prix-pompe-a-chaleur.be/guides/daikin-vs-vaillant-vs-mitsubishi-belgique)
+
+## Marques couvertes
+Daikin, Vaillant, Mitsubishi Electric, Atlantic, Bosch
+
+## Zone de couverture
+Belgique francophone : Brabant wallon, Bruxelles-Capitale, Hainaut, Liège, Luxembourg, Namur — 271 communes avec données locales.
