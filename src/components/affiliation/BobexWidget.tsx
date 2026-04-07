@@ -24,7 +24,7 @@ export function BobexWidget({
     const iframeSrc = `https://www.guide-renovation.be/bobex-form/typeid/${typeId}?aff=${affId}&utm_source=${utmSource}&multistep=true`;
 
     return (
-        <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+        <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden relative">
             {/* Loading state */}
             {!isLoaded && (
                 <div
@@ -45,10 +45,10 @@ export function BobexWidget({
                 style={{
                     height,
                     border: "none",
-                    display: isLoaded ? "block" : "none",
+                    opacity: isLoaded ? 1 : 0,
+                    position: isLoaded ? "relative" : "absolute",
                 }}
                 title="Demande de devis pompe à chaleur — Bobex.be"
-                loading="lazy"
                 allow="geolocation"
                 onLoad={() => setIsLoaded(true)}
             />
