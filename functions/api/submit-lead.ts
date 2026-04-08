@@ -45,7 +45,7 @@ export const onRequestPost: PagesFunction = async (context) => {
             "type.id": body.typeId || "11428", // Default: Pompe à chaleur
             aff: "110530",                     // Affiliate ID
             language: "fr",
-            XML_country: "be",
+            XML_country: "BE",
             companyType: "label.companytype.consumer",
             utm_medium: "aff",
             utm_source: body.utmSource || "prix-pompe-a-chaleur.be",
